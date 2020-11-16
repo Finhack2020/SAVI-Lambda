@@ -1,0 +1,21 @@
+{
+  "name": "bancosafra",
+  "version": "1.0",
+  "description": "SAVI - Safra Assistente Virtual Inteligente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "Team SAVI - FIAP2020",
+  "license": "",
+  "dependencies": {
+    "ask-sdk-core": "^2.10.1",
+    "ask-sdk-model": "^1.34.0",
+    "dotenv": "^8.2.0",
+    "i18next": "^19.8.3",
+    "axios": "^0.21.0",
+    "follow-redirects": "^1.13.0",
+    "i18next-sprintf-postprocessor": "^0.2.2"
+  }
+}
